@@ -1,3 +1,7 @@
+## Mengenai Sistem Pengurusan Masjid Al-Raudhah
+Sistem ini dibangunkan secara sumber terbuka dengan menggunakan framework Laravel. 
+Setakat ini module Ahli Kariah (Pendaftaran baru, Edit dan Delete) sahaja.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
