@@ -4,7 +4,7 @@
             <ul class="nav">
                 <li><a href="index.html" class="active"><i class="lnr lnr-home"></i> <span>Dashboard</span></a></li>
                 <li><a href="/ahlikariah" class=""><i class="lnr lnr-users"></i> <span>Ahli Kariah</span></a></li>
-                <li><a href="charts.html" class=""><i class="lnr lnr-user"></i> <span>Senarai Penceramah</span></a></li>
+                <li><a href="/penceramah" class=""><i class="lnr lnr-user"></i> <span>Senarai Penceramah</span></a></li>
                 <li><a href="panels.html" class=""><i class="lnr lnr-inbox"></i> <span>Kewangan</span></a></li>
                 <li><a href="notifications.html" class=""><i class="lnr lnr-apartment"></i> <span>Aset Masjid</span></a></li>
                 <li>

@@ -23,4 +23,8 @@ Route::post('/ahlikariah/{id}/update','AhliKariahController@update');
 Route::get('/ahlikariah/{id}/delete','AhliKariahController@delete');
 
 //Senarai Penceramah
-Route::get('/senaraipenceramah','SenaraiPenceramahController@spall');
+Route::get('/penceramah','PenceramahController@index');
+Route::post('/penceramah/create','PenceramahController@create');
+Route::get('/penceramah/{id}/edit','PenceramahController@edit');
+Route::post('/penceramah/{id}/update','PenceramahController@update');
+Route::get('/penceramah/{id}/delete','PenceramahController@delete');
